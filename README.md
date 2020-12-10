@@ -4,7 +4,7 @@
 
 1. Git Clone the project with: ```git clone https://github.com/VistaVincent/Plagiarism-Checker.git```.
 
-2. Move to the base directory: ```cd Django-Twitter-Clone```
+2. Move to the base directory:
 
 3. Create a new python enveronment with: ```python -m venv env```.   -optional
 
