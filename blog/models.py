@@ -76,9 +76,11 @@ class Post(models.Model):
          
 
         #grammar checker
+        '''
         checked= gram_check(my_text)
         print(checked)
-        self.grammar=checked
+        '''
+        self.grammar='This is a place holder'
 
 
 
